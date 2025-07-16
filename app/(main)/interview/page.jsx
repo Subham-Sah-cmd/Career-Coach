@@ -14,7 +14,7 @@ const InterviewPage = async () => {
   return (
     <div>
       <div>
-        <h1 className="text-6xl font-bold  mb-leading-normal font-bold bg-gradient-to-b from-gray-400 via-gray-200 to-gray-600 text-transparent bg-clip-text inline-block5">
+        <h1 className="text-6xl font-bold  mb-6 font-bold bg-gradient-to-b from-gray-400 via-gray-200 to-gray-600 text-transparent bg-clip-text inline-block5">
           Interview Preparation
         </h1>
         <div className="space-y-6">
